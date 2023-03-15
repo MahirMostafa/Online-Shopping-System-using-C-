@@ -1,0 +1,6 @@
+Anindra Das:2:Samsung Galaxy S20+ :1003: USD:Credit card:UPS:Thursday:3:30 PM|Mirpur,Dhaka
+Zidan Rahman:1:Dell Alienware AW2518H 25 :64000: TK:Cash on Delivery:Fed Ex:Tuesday:3:30 PM|Gulshan,Dhaka
+Anindra Das:3:Microsoft Surface Pro 7 :95000: TK:Credit card:Fed Ex:Thursday:12:30 PM|Mirpur,Dhaka
+Zidan Rahman:3:tVIEWSONIC XG2402 :401: USD:Credit card:Fed Ex:Tuesday:3:30 PM|Mirpur,Dhaka
+Anindra Das:4:Google Pixel 4 XL :85500: TK:Cash on Delivery:UPS:Thursday:3:30 PM|Mirpur,Dhaka
+:1:Samsung Galaxy S20+ :84999: TK:Cash on Delivery:DHL:Sunday:9:30 AM|Uttara,Dhaka
